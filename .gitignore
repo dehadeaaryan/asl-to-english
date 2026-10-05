@@ -1,0 +1,11 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+data/
+models/asl_centroids.json
+*.log
+.DS_Store
+.env
+.env.*
+!.env.example
